@@ -6,4 +6,4 @@ Link to report: https://docs.google.com/document/d/1C0I2mKQpOA2ViPWJtoDjfSS4X56J
 
 The following is a brief visualization of how our workflow was like when wrangling with the datasets:
 
-![Workflow](https://github.com/user-attachments/assets/0ec410d2-91df-43d4-b140-16c9d2ef9baa)
+![Workflow](https://github.com/user-attachments/assets/f30fbc3d-e5e2-4e1e-be7b-ee7e4cd6786c)
