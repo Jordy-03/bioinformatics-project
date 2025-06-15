@@ -1,4 +1,4 @@
-# Bioinformatics Project 1
+# Bioinformatics Project
 
 This is the repository that contains all files necessary to reconstruct the figures from Project 1 Report. <br />
 
